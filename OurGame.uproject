@@ -14,14 +14,9 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
-		},
-		{
 			"Name": "ComputeFramework",
 			"Enabled": true
 		},
-		{
-			"Name": "Optimus",
-			"Enabled": true
 		}
 	]
 }
