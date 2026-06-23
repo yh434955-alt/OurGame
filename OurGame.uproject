@@ -14,9 +14,6 @@
 		{
 			"Name": "MultiUserClient",
 			"Enabled": true
-			"Name": "ComputeFramework",
-			"Enabled": true
-		},
 		}
 	]
 }
